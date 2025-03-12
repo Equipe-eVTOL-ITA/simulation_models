@@ -94,7 +94,7 @@
     <model name="openlanes_10ft">
       <include>
         <uri>model://openlanes_10ft</uri>
-        <pose>8.5 2.2 0 0 0 0</pose> <!-- Ajuste fino ao lado da plataforma de decolagem -->
+        <pose>-15.663 -0.13959 0.01 0 0 0</pose>
       </include>
     </model>
 
