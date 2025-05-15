@@ -135,7 +135,7 @@
     <!-- Plataforma central -->
     <model name="plataforma_circulo">
       <include>
-        <uri>model://plataforma_circulo</uri>
+        <uri>model://sae/plataforma_circulo</uri>
         <pose>0.0 0.0 0 1.5708 0 0</pose>
       </include>
       <scale>0.5 0.5 0.5</scale>
@@ -144,7 +144,7 @@
     <!-- Obstáculos ao redor -->
     <model name="plataforma_quadrado">
       <include>
-        <uri>model://plataforma_quadrado</uri>
+        <uri>model://sae/plataforma_quadrado</uri>
         <pose>3.0 0.0 0 1.5708 0 0</pose>
       </include>
       <scale>0.5 0.5 0.5</scale>
@@ -152,7 +152,7 @@
 
     <model name="plataforma_triangulo">
       <include>
-        <uri>model://plataforma_triangulo</uri>
+        <uri>model://sae/plataforma_triangulo</uri>
         <pose>2.1 2.1 0 1.5708 0 0</pose>
       </include>
       <scale>0.5 0.5 0.5</scale>
@@ -160,7 +160,7 @@
 
     <model name="plataforma_hexagono">
       <include>
-        <uri>model://plataforma_hexagono</uri>
+        <uri>model://sae/plataforma_hexagono</uri>
         <pose>0.0 3.2 0 1.5708 0 0</pose>
       </include>
       <scale>0.5 0.5 0.5</scale>
@@ -168,7 +168,7 @@
 
     <model name="plataforma_pentagono">
       <include>
-        <uri>model://plataforma_pentagono</uri>
+        <uri>model://sae/plataforma_pentagono</uri>
         <pose>-2.1 2.1 0 1.5708 0 0</pose>
       </include>
       <scale>0.5 0.5 0.5</scale>
@@ -176,7 +176,7 @@
 
     <model name="plataforma_estrela">
       <include>
-        <uri>model://plataforma_estrela</uri>
+        <uri>model://sae/plataforma_estrela</uri>
         <pose>-3.2 0.0 0 1.5708 0 0</pose>
       </include>
       <scale>0.5 0.5 0.5</scale>
@@ -184,7 +184,7 @@
 
     <model name="plataforma_cruz">
       <include>
-        <uri>model://plataforma_cruz</uri>
+        <uri>model://sae/plataforma_cruz</uri>
         <pose>-2.1 -2.1 0 1.5708 0 0</pose>
       </include>
       <scale>0.5 0.5 0.5</scale>
@@ -192,7 +192,7 @@
 
     <model name="plataforma_casa">
       <include>
-        <uri>model://plataforma_casa</uri>
+        <uri>model://sae/plataforma_casa</uri>
         <pose>0.0 -3.0 0 1.5708 0 0</pose>
       </include>
       <scale>0.5 0.5 0.5</scale>

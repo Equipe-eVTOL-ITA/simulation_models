@@ -6,7 +6,7 @@
       <visual name="visual">
         <geometry>
           <mesh>
-            <uri>model://plataforma_circulo/meshes/plataforma_circulo.obj</uri>
+            <uri>model://sae/plataforma_estrela/meshes/plataforma_estrela.obj</uri>
             <scale>0.8 0.8 0.8</scale>
           </mesh>
         </geometry>
@@ -14,7 +14,7 @@
       <collision name="collision">
         <geometry>
           <mesh>
-            <uri>model://plataforma_circulo/meshes/plataforma_circulo.obj</uri>
+            <uri>model://sae/plataforma_estrela/meshes/plataforma_estrela.obj</uri>
             <scale>0.8 0.8 0.8 </scale>
           </mesh>
         </geometry>
