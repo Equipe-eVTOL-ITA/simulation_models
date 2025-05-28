@@ -130,7 +130,7 @@
     <!-- Mangueira com suportes -->
     <model name="mangueira_com_suportes">
       <static>true</static>
-      <pose>3.5 2.0 0 0 0 0</pose>
+      <pose>3.95 0 0 0 0 1.5708</pose>
 
       <link name="mangueira">
         <pose>0 0 2 0 1.5708 0</pose>
@@ -208,30 +208,12 @@
     <!-- Faixas azuis caminho -->
     <model name="faixa_1">
       <static>true</static>
-      <pose> 2.2625 0 0 0 0 0</pose>
+      <pose> 2.2 0 0 0 0 0</pose>
       <link name="link">
         <visual name="visual">
           <geometry>
             <box>
-              <size>3.725 0.25 0.01</size>  
-            </box>
-          </geometry>
-          <material>
-            <ambient>0 0 1 1</ambient>
-            <diffuse>0 0 1 1</diffuse>
-          </material>
-        </visual>
-      </link>
-    </model>
-
-    <model name="faixa_2">
-      <static>true</static>
-      <pose>4 1 0 0 0 1.5707963</pose>  
-      <link name="link">
-        <visual name="visual">
-          <geometry>
-            <box>
-              <size>2 0.25 0.01</size>  
+              <size>3.6 0.25 0.01</size>  
             </box>
           </geometry>
           <material>
